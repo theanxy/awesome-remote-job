@@ -50,6 +50,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Hiring Secrets Of A Distributed Company](https://www.lullabot.com/blog/article/hiring-secrets-distributed-company)
   1. [What is a Distributed Company?](https://www.lullabot.com/blog/article/what-distributed-company)
   1. [Learning From Distributed Companies](https://www.lullabot.com/blog/article/learning-distributed-companies)
+  1. [10 Secrets to Becoming a Great Remote Developer](http://x-team.com/2014/05/10-secrets-to-becoming-a-great-remote-developer/)
 
 ## Books
   1. [Remote. Office Not Required.](http://37signals.com/remote/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/46QWPQUJ))
@@ -130,6 +131,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Trello](https://trello.com/jobs)
   1. [Twin Technologies](https://www.twintechs.com/about-us/contact-us/careers/)
   1. [Wikimedia](http://wikimediafoundation.org/wiki/Work_with_us)
+  1. [X-Team](https://x-team.com/join/)
   1. [Zapier](https://zapier.com/jobs/)
 
 ## Q&A
